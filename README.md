@@ -1,0 +1,2 @@
+# SnippingAutoJava
+SnippingAutoJava
